@@ -3,4 +3,4 @@ Personal
 
 ## Responsive
 
-[Responive Project](http://kmorgansabean.github.io/responsive/index.html)
+[Responsive Project](http://kmorgansabean.github.io/responsive/index.html)
